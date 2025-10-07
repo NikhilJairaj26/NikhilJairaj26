@@ -1,63 +1,105 @@
-<!-- Header banner (optional) -->
-<!-- You can generate one via a header generator tool and host as an image asset -->
-<!-- <img src="https://raw.githubusercontent.com/[username]/[username]/main/assets/header.png" alt="Banner"> -->
+<!-- Optional banner -->
+<!-- <img src="https://raw.githubusercontent.com/NikhilJairaj26/NikhilJairaj26/main/assets/header.png" alt="Nikhil Jairaj banner"> -->
 
-<h1 align="center">Hi, I'm [Full Name] 👋</h1>
+<h1 align="center">Hey, I'm Nikhil 👋</h1>
 <p align="center">
-  [Role or focus] • [Location] • Open to [internships | freelance | full-time]
+  Building practical AI/ML and analytics projects — turning messy data into neat, useful apps.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[handle]">LinkedIn</a> ·
-  <a href="mailto:[email]">Email</a> ·
-  <a href="https://[portfolio-or-linktree]">Portfolio</a>
+  <a href="https://github.com/NikhilJairaj26">GitHub</a> ·
+  <a href="mailto:nikhiljairaj26@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/nikhil-jairaj-634021215">LinkedIn</a>
 </p>
 
 ---
 
-### About
-- Building with Python, data, and mobile to solve real problems in an elegant, maintainable way. [web:24]
-- Currently learning advanced database design, data viz, and mobile app UX patterns. [web:24]
-- Interested in data apps, AI‑assisted tooling, and creator workflows. [web:24]
+### 🚀 What I’m up to
+- Shipping end‑to‑end data workflows: ingest → clean → model → visualize.  
+- Leveling up in applied ML: recommenders, classification, experiments, tidy dashboards.  
+- Final‑year CSE + AI/ML certification in progress.  
 
-### Skills
+---
+
+### 🧰 Toolbox
 <p>
-  <!-- Icons: use skill-icons or simple-icons -->
-  <!-- Replace with the stacks actually used -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white" />
-</p> <!-- Shields.io badges are a recognized best practice for quick-scan skills lists. [web:25][web:33] -->
-
-### Featured projects
-- [Project A — one‑line value prop](https://github.com/[username]/[repo-a]) · demo GIF · stack: [tech1, tech2] · highlights: [X users | CI | tests] [web:24]
-- [Project B — one‑line value prop](https://github.com/[username]/[repo-b]) · screenshot · stack: [tech1, tech2] · highlights: [auth | CRUD | docs] [web:24]
-- [Project C — one‑line value prop](https://github.com/[username]/[repo-c]) · link · stack: [tech1, tech2] · highlights: [API | caching | deploy] [web:24]
-
-### Work style
-- Clear docs and READMEs, small commits with descriptive messages, and automated checks where possible. [web:24]
-- Preference for accessible UX, maintainable code, and measurable impact. [web:24]
-
-### Get in touch
-- Email: [email] · LinkedIn: [link] · Portfolio: [link] [web:24]
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
+</p>
 
 ---
 
-<!-- Optional dynamic widgets; keep tasteful and minimal -->
+### 🌟 Highlights
+- 20k+ Reddit posts ETL with cleaner/leaner processing and faster runtime.  
+- Content‑based movie recommender with evaluated metrics and tidy dashboards.  
+- 5M+ row ETL optimized with vectorization for a sensible speedup.  
+- A/B testing + SQL tuning that moved conversion metrics.  
+
+---
+
+### 📌 Projects
+
+- Reddit ETL + Insights  
+  Data pipeline + exploratory modeling to understand engagement; faster, cleaner data → better posting decisions.  
+  Repo: [https://github.com/NikhilJairaj26/reddit-etl-engagement](https://github.com/NikhilJairaj26/Reddit_EDA)
+
+- Content‑Based Movie Recommender  
+  Lightweight scikit‑learn recommender with evaluation and simple visuals for genre and revenue trends.  
+  Repo: [https://github.com/NikhilJairaj26/movie-recommender-ml](https://github.com/NikhilJairaj26/movies_EDA)
+
+- Sales Analytics (DE + BI)  
+  Vectorized ETL on multi‑million rows and dashboards that cut weekly reporting time meaningfully.  
+  Repo: https://github.com/NikhilJairaj26/sales-analytics-de
+
+- SQL Optimization + A/B Toolkit  
+  Reusable notebooks/queries for JOIN tuning and experiment analysis.  
+  Repo: https://github.com/NikhilJairaj26/ab-testing-sql-toolkit
+
+---
+
+### 🤖 ML models
+
+- Flight Delay Predictor  
+  Supervised model to classify delay/no‑delay from historical flight and weather features; features engineered from timestamps, routes, and meteorological signals; includes ROC/PR curves and calibrated probabilities for thresholding.  
+  Repo: [https://github.com/NikhilJairaj26/flight-delay-ml](https://github.com/NikhilJairaj26/Flight-delay-prediction)
+
+- Telecom Churn Classifier  
+  End‑to‑end churn pipeline with class‑imbalance handling (SMOTE/weights), feature selection, and explainability (SHAP) to support retention playbooks; packaged with inference script and baseline monitoring notebook.  
+  Repo: [https://github.com/NikhilJairaj26/telecom-churn-ml](http://github.com/NikhilJairaj26/Tele-Customer-Chum)
+
+- Indian Property Price Model  
+  Regression on Indian real‑estate datasets with location encoding (cities/zones), amenities, and area features; includes cross‑validation, error analysis by segment, and deployment‑ready preprocessing pipeline.  
+  Repo: https://github.com/NikhilJairaj26/indian-property-ml
+
+---
+
+### 💸 Personal Finance App
+A minimal finance app that tracks expenses and budgets with simple analytics: CSV import, category rules, monthly rollups, and goal progress; ships with clean charts and exportable reports, and designed for low‑friction daily use.  
+Repo: [https://github.com/NikhilJairaj26/personal-finance](https://github.com/NikhilJairaj26/Finance)
+
+---
+
+### 🗺️ Roadmap
+- Wrap one ML model as a small FastAPI service with tests and CI.  
+- Add experiment templates (power calc, CUPED variants, guardrails).  
+- Publish a dashboard pack with reproducible setup.  
+
+---
+
+### 💬 Say hello
+Email: nikhiljairaj26@gmail.com · LinkedIn: /in/nikhil-jairaj-634021215
+
 <details>
   <summary>Activity & Stats</summary>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=default&hide_title=true" alt="stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact" alt="top langs" />
-  <!-- Streak (optional) -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]" alt="streak" /> -->
-</details> <!-- Stats widgets are common in curated example READMEs; use sparingly. [web:3][web:9] -->
-
-<!-- Footer note -->
-<p align="center">Thanks for visiting — exploring, building, and learning every day.</p>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilJairaj26&show_icons=true&hide_title=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilJairaj26&layout=compact" alt="top langs" />
+</details>
