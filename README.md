@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
 </p>
 
-<!-- Optional mobile stack (keep only if used in Finance app) -->
+<!-- Optional mobile stack -->
 <p>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=061A23" />
   <img src="https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white" />
@@ -46,51 +46,44 @@
 ---
 
 ### 🌟 Highlights
-- Flight Delay Predictor: delay/no‑delay classification with time/route/weather features; ROC/PR and calibrated thresholds.  
-- Telecom Churn Classifier: class‑imbalance handling and SHAP explainability for actionable retention signals.  
-- Indian Property Price Model: regression with location encoding and segment‑wise error analysis.  
+- Flight Delay Predictor: delay/no‑delay classification with time/route/weather features; ROC/PR and calibrated thresholds. [Repo]  
+- Telecom Churn Classifier: class‑imbalance handling and SHAP explainability for actionable retention signals. [Repo]  
+- Indian Property Price Model: regression with location encoding and segment‑wise error analysis. [Repo]  
 - 20k+ Reddit ETL with cleaner, faster processing; 5M+‑row sales ETL optimized via vectorization; A/B testing + SQL tuning that moved conversion metrics.  
 
 ---
 
 ### 📌 Projects
-- Reddit ETL + Insights  
-  Data pipeline + exploratory modeling to understand engagement; faster, cleaner data → better posting decisions.  
-  Repo: [https://github.com/NikhilJairaj26/Reddit_EDA](https://github.com/NikhilJairaj26/Reddit_EDA)
+- Reddit ETL + Insights — Data pipeline + exploratory modeling for engagement; faster, cleaner data → better decisions.  
+  Repo: https://github.com/NikhilJairaj26/Reddit_EDA
 
-- Content‑Based Movie Recommender  
-  Lightweight scikit‑learn recommender with evaluation and simple visuals for genre and revenue trends.  
-  Repo: [https://github.com/NikhilJairaj26/movies_EDA](https://github.com/NikhilJairaj26/movies_EDA)
+- Content‑Based Movie Recommender — Lightweight scikit‑learn recommender with evaluation and simple visuals.  
+  Repo: https://github.com/NikhilJairaj26/movies_EDA
 
-- Sales Analytics (DE + BI)  
-  Vectorized ETL on multi‑million rows and dashboards that cut weekly reporting time meaningfully.  
-  Repo: [https://github.com/NikhilJairaj26/sales-analytics-de](https://github.com/NikhilJairaj26/sales-analytics-de)
+- Sales Analytics (DE + BI) — Vectorized ETL on multi‑million rows; dashboards that cut weekly reporting time.  
+  Repo: https://github.com/NikhilJairaj26/sales-analytics-de
 
-- SQL Optimization + A/B Toolkit  
-  Reusable notebooks/queries for JOIN tuning and experiment analysis.  
-  Repo: [https://github.com/NikhilJairaj26/ab-testing-sql-toolkit](https://github.com/NikhilJairaj26/ab-testing-sql-toolkit)
+- SQL Optimization + A/B Toolkit — Notebooks/queries for JOIN tuning and experiment analysis.  
+  Repo: https://github.com/NikhilJairaj26/ab-testing-sql-toolkit
 
 ---
 
 ### 🤖 ML models
-- Flight Delay Predictor  
-  Classifies delay/no‑delay using route, time, and weather features; includes ROC/PR curves and calibrated thresholds.  
-  Repo: [https://github.com/NikhilJairaj26/Flight-delay-prediction](https://github.com/NikhilJairaj26/Flight-delay-prediction)
+- Flight Delay Predictor — ROC/PR curves, calibrated thresholds.  
+  Repo: https://github.com/NikhilJairaj26/Flight-delay-prediction
 
-- Telecom Churn Classifier  
-  Pipeline with class‑imbalance handling and SHAP explainability; scripts for batch and on‑demand inference.  
-  Repo: [http://github.com/NikhilJairaj26/Tele-Customer-Chum](http://github.com/NikhilJairaj26/Tele-Customer-Chum)
+- Telecom Churn Classifier — Class‑imbalance handling, SHAP explainability.  
+  Repo: http://github.com/NikhilJairaj26/Tele-Customer-Chum
 
-- Indian Property Price Model  
-  Regression with location encoding, amenities, and area features; CV and segment‑wise error analysis included.  
-  Repo: [https://github.com/NikhilJairaj26/indian-property-ml](https://github.com/NikhilJairaj26/indian-property-ml)
+- Indian Property Price Model — CV and segment‑wise error analysis.  
+  Repo: https://github.com/NikhilJairaj26/indian-property-ml
 
 ---
 
 ### 💸 Personal Finance App (React Native)
 Tracks expenses and budgets with smooth, offline‑first UX: quick capture, category rules, monthly rollups, charts, and CSV export.  
-Stack: React Native + Expo, TypeScript, SQLite (keep Redux/Zustand/react‑query only if actually used).  
-Repo: [https://github.com/NikhilJairaj26/Finance](https://github.com/NikhilJairaj26/Finance)
+Stack: React Native + Expo, TypeScript, SQLite.  
+Repo: https://github.com/NikhilJairaj26/Finance
 
 ---
 
@@ -102,7 +95,7 @@ Repo: [https://github.com/NikhilJairaj26/Finance](https://github.com/NikhilJaira
 ---
 
 ### 💬 Say hello
-Email: [nikhiljairaj26@gmail.com](mailto:nikhiljairaj26@gmail.com) · LinkedIn: [/in/nikhil-jayaraj-634021215](https://www.linkedin.com/in/nikhil-jairaj-634021215/)
+Email: nikhiljairaj26@gmail.com · LinkedIn: /in/nikhil-jayaraj-634021215
 
 <details>
   <summary>Activity & Stats</summary>
