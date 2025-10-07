@@ -1,5 +1,6 @@
 <!-- Optional banner -->
-<!-- <img src="https://raw.githubusercontent.com/NikhilJairaj26/NikhilJairaj26/main/assets/header.png" alt="Nikhil Jairaj banner"> -->
+
+<img src="assets/header.png" alt="Nikhil Jairaj banner" width="1200" height="300" />
 
 <h1 align="center">Hey, I'm Nikhil 👋</h1>
 <p align="center">
