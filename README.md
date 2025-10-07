@@ -23,67 +23,74 @@
 
 ### 🧰 Toolbox
 <p>
+  <!-- Core data/ML -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
 </p>
 
+<!-- Optional mobile stack (keep only if used in Finance app) -->
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=061A23" />
+  <img src="https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+</p>
+
 ---
 
 ### 🌟 Highlights
-- 20k+ Reddit posts ETL with cleaner/leaner processing and faster runtime.  
-- Content‑based movie recommender with evaluated metrics and tidy dashboards.  
-- 5M+ row ETL optimized with vectorization for a sensible speedup.  
-- A/B testing + SQL tuning that moved conversion metrics.  
+- Flight Delay Predictor: delay/no‑delay classification with time/route/weather features; ROC/PR and calibrated thresholds.  
+- Telecom Churn Classifier: class‑imbalance handling and SHAP explainability for actionable retention signals.  
+- Indian Property Price Model: regression with location encoding and segment‑wise error analysis.  
+- 20k+ Reddit ETL with cleaner, faster processing; 5M+‑row sales ETL optimized via vectorization; A/B testing + SQL tuning that moved conversion metrics.  
 
 ---
 
 ### 📌 Projects
-
 - Reddit ETL + Insights  
   Data pipeline + exploratory modeling to understand engagement; faster, cleaner data → better posting decisions.  
-  Repo: [https://github.com/NikhilJairaj26/reddit-etl-engagement](https://github.com/NikhilJairaj26/Reddit_EDA)
+  Repo: [https://github.com/NikhilJairaj26/Reddit_EDA](https://github.com/NikhilJairaj26/Reddit_EDA)
 
 - Content‑Based Movie Recommender  
   Lightweight scikit‑learn recommender with evaluation and simple visuals for genre and revenue trends.  
-  Repo: [https://github.com/NikhilJairaj26/movie-recommender-ml](https://github.com/NikhilJairaj26/movies_EDA)
+  Repo: [https://github.com/NikhilJairaj26/movies_EDA](https://github.com/NikhilJairaj26/movies_EDA)
 
 - Sales Analytics (DE + BI)  
   Vectorized ETL on multi‑million rows and dashboards that cut weekly reporting time meaningfully.  
-  Repo: https://github.com/NikhilJairaj26/sales-analytics-de
+  Repo: [https://github.com/NikhilJairaj26/sales-analytics-de](https://github.com/NikhilJairaj26/sales-analytics-de)
 
 - SQL Optimization + A/B Toolkit  
   Reusable notebooks/queries for JOIN tuning and experiment analysis.  
-  Repo: https://github.com/NikhilJairaj26/ab-testing-sql-toolkit
+  Repo: [https://github.com/NikhilJairaj26/ab-testing-sql-toolkit](https://github.com/NikhilJairaj26/ab-testing-sql-toolkit)
 
 ---
 
 ### 🤖 ML models
-
 - Flight Delay Predictor  
-  Supervised model to classify delay/no‑delay from historical flight and weather features; features engineered from timestamps, routes, and meteorological signals; includes ROC/PR curves and calibrated probabilities for thresholding.  
-  Repo: [https://github.com/NikhilJairaj26/flight-delay-ml](https://github.com/NikhilJairaj26/Flight-delay-prediction)
+  Classifies delay/no‑delay using route, time, and weather features; includes ROC/PR curves and calibrated thresholds.  
+  Repo: [https://github.com/NikhilJairaj26/Flight-delay-prediction](https://github.com/NikhilJairaj26/Flight-delay-prediction)
 
 - Telecom Churn Classifier  
-  End‑to‑end churn pipeline with class‑imbalance handling (SMOTE/weights), feature selection, and explainability (SHAP) to support retention playbooks; packaged with inference script and baseline monitoring notebook.  
-  Repo: [https://github.com/NikhilJairaj26/telecom-churn-ml](http://github.com/NikhilJairaj26/Tele-Customer-Chum)
+  Pipeline with class‑imbalance handling and SHAP explainability; scripts for batch and on‑demand inference.  
+  Repo: [http://github.com/NikhilJairaj26/Tele-Customer-Chum](http://github.com/NikhilJairaj26/Tele-Customer-Chum)
 
 - Indian Property Price Model  
-  Regression on Indian real‑estate datasets with location encoding (cities/zones), amenities, and area features; includes cross‑validation, error analysis by segment, and deployment‑ready preprocessing pipeline.  
-  Repo: https://github.com/NikhilJairaj26/indian-property-ml
+  Regression with location encoding, amenities, and area features; CV and segment‑wise error analysis included.  
+  Repo: [https://github.com/NikhilJairaj26/indian-property-ml](https://github.com/NikhilJairaj26/indian-property-ml)
 
 ---
 
-### 💸 Personal Finance App
-A minimal finance app that tracks expenses and budgets with simple analytics: CSV import, category rules, monthly rollups, and goal progress; ships with clean charts and exportable reports, and designed for low‑friction daily use.  
-Repo: [https://github.com/NikhilJairaj26/personal-finance](https://github.com/NikhilJairaj26/Finance)
+### 💸 Personal Finance App (React Native)
+Tracks expenses and budgets with smooth, offline‑first UX: quick capture, category rules, monthly rollups, charts, and CSV export.  
+Stack: React Native + Expo, TypeScript, SQLite (keep Redux/Zustand/react‑query only if actually used).  
+Repo: [https://github.com/NikhilJairaj26/Finance](https://github.com/NikhilJairaj26/Finance)
 
 ---
 
@@ -95,7 +102,7 @@ Repo: [https://github.com/NikhilJairaj26/personal-finance](https://github.com/Ni
 ---
 
 ### 💬 Say hello
-Email: nikhiljairaj26@gmail.com · LinkedIn: /in/nikhil-jairaj-634021215
+Email: [nikhiljairaj26@gmail.com](mailto:nikhiljairaj26@gmail.com) · LinkedIn: [/in/nikhil-jayaraj-634021215](https://www.linkedin.com/in/nikhil-jairaj-634021215/)
 
 <details>
   <summary>Activity & Stats</summary>
