@@ -88,7 +88,7 @@ Repo: https://github.com/NikhilJairaj26/Finance
 ---
 
 ### 💬 Say hello
-Email: nikhiljairaj26@gmail.com · LinkedIn: /in/nikhil-jairaj-634021215
+Email: nikhiljairaj26@gmail.com · LinkedIn: [/in/nikhil-jairaj-634021215](https://www.linkedin.com/in/nikhil-jairaj-634021215/)
 
 <details>
   <summary>Activity & Stats</summary>
